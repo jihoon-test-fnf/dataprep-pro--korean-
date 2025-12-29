@@ -1,0 +1,5 @@
+{
+  "name": "DataPrep Pro (Korean)",
+  "description": "A user-friendly data preprocessing tool for selecting, renaming, and exporting columns from Excel and CSV files.",
+  "requestFramePermissions": []
+}
