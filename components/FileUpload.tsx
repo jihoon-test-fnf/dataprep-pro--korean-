@@ -38,7 +38,7 @@ const FileUpload: React.FC<FileUploadProps> = ({ onFileUpload }) => {
             <Upload className="w-10 h-10 text-blue-600" />
           </div>
           <p className="mb-2 text-xl font-semibold text-slate-700">
-            여기로 파일을 드래그하거나 클릭하세요
+            여기로 파일을 드래그하거나 클릭하세요ㅋㅋㅋㅋ
           </p>
           <p className="text-sm text-slate-500 mb-6">
             지원 형식: .xlsx, .csv (대용량 파일도 빠르게 처리됩니다)
